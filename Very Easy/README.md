@@ -4,7 +4,8 @@
 **Solves:** 51
 **Description:**
 
->Reeglid on need, mis teevad mängust mängu ja muudab asjad huvitavaks. Vaata siia ja leia flag: https://ctfp.ee/reeglid
+>Reeglid on need, mis teevad mängust mängu ja muudab asjad huvitavaks.
+>Vaata siia ja leia flag: https://ctfp.ee/reeglid
 
 # Write-up
 by BubblyPen
