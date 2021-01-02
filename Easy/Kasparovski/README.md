@@ -5,6 +5,7 @@
 **Description:**
 
 >Chessmaster was beaten! Discover the culprit by finding the flag
+>
 >how_do_i_win.png
 
 # Write-up
