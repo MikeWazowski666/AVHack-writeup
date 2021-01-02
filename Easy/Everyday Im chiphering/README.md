@@ -5,7 +5,9 @@
 **Description:**
 
 >Tuvasta piltidel kasutatud šifrid ja dekodeeri need
+>
 >everyday_im_ciphering_k.zip
+>
 >FLAG on formaadis CC19-####-####-####
 
 # Write-up
