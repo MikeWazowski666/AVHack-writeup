@@ -4,9 +4,11 @@
 **Solves:** 12
 **Description:**
 
-> Päkapikud tahtsid Jõuluvanale ta parooli sõnumiga saata
-> Kahjuks ei jõudnud see kohale, aga parool taastati telefoni andmelogidest... kahjuks on ka see loetamatu!??? või kas ikka on?
-> message.txt
+>
+>Päkapikud tahtsid Jõuluvanale ta parooli sõnumiga saata
+>
+>Kahjuks ei jõudnud see kohale, aga parool taastati telefoni andmelogidest... kahjuks on ka see loetamatu!??? või kas ikka on?
+>message.txt
 
 # Write-up
 by BubblyPen
