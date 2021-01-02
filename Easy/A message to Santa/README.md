@@ -20,6 +20,6 @@ Searched for "GSM 7 bit decoder online" and found this site:
 > https://www.diafaan.com/sms-tutorials/gsm-modem-tutorial/online-sms-pdu-decoder/
 
 
-![]./text.png
+![](text.png)
 
 ***Flag:*** CC19-h4ve-n1ce-chr1-stmas
