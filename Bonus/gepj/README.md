@@ -22,7 +22,7 @@ by chirbard
 
 Unzipped folder has two files: pfft.gepj and tfft.pjge.
 
-The file pfft.gepj has jpeg tag at the end, that means all the bytes in the file are reversed.
+The file pfft.gepj has a reversed jpeg tag at the end, that means all the bytes in the file are reversed.
 
 ![](tag_at_the_end_of_the_file.png)
 
