@@ -26,4 +26,4 @@ The file pfft.gepj has a reversed jpeg tag at the end, that means all the bytes 
 
 ![](tag_at_the_end_of_the_file.png)
 
-File locations have to be added to reverse_image_bytes.ps1 and it will output a new image with the flag inside.
+File locations have to be added to [](reverse_image_bytes.ps1) and it will output a new image with the flag inside.
