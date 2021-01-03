@@ -19,7 +19,7 @@ I downloaded stella and then opened the game file with it. Pressed the \` key to
 
 ![](https://imgur.com/e5zoGue.png)
 
-Set memory address `d9` to values between `fa` and `ff` and get one kill to get the flag.
+I tested out different memory addresses, and found that memory address `00d9` was vulnerable. So I set memory address `00d9` to values between `fa` and `ff`. After seting the value I tested by playing the game, what would happen if address `00d9` was set to `fa` - `ff`. Nothing changed in the UI. So I played till I got a kill and then the game ended.
 
 ![](https://imgur.com/ORlWu9e.png)
 
