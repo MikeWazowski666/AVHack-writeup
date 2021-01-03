@@ -57,4 +57,4 @@ Dcode.fr has a list of ciphers that use symbols.
 
 >https://www.dcode.fr/tools-list#symbols
 
-![](SymbolCipherList)
+![](SymbolCipherList.png)
