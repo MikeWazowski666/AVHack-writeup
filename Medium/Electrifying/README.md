@@ -1,4 +1,4 @@
-# RSA
+# Electrifying
 **Category:** Medium
 **Points:** 400
 **Solves:** 23
