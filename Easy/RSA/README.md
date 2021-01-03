@@ -6,9 +6,9 @@
 
 >Mis on failis olev sõnum?
 >
->flag.enc
+>[flag.enc](./flag.enc)
 >
->key.pem
+>[key.pem](./key.pem)
 
 
 # Write-up
