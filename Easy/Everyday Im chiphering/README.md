@@ -56,3 +56,5 @@ By puting the pieces together, you will get the flag
 Dcode.fr has a list of ciphers that use symbols.
 
 >https://www.dcode.fr/tools-list#symbols
+
+![](SymbolCipherList)
