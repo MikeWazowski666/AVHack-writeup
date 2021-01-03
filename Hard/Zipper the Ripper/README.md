@@ -18,9 +18,9 @@ This challange is 10000 archives deep. Manualy doing this will take abotu 4 hour
 ```bash
 #!/bin/bash
 #
-#==================================
+#==================================================
 #		Written by BubblyPen
-#==================================
+#==================================================
 #
 filename=$1
 
