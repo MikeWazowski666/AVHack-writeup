@@ -13,7 +13,7 @@
 # Write-up
 by BubblyPen
 
-This challange is 10000 archives deep. Manualy doing this will take abotu 4 hours. So I wrote this bash script to crawl these archives automaticaly. When the script is finished, it will create a flag.txt file which contains the flag. It will also `cat` out the flag.
+This challange is 10000 archives deep. Manualy doing this will take about 4 hours. So I wrote this bash script to crawl these archives automaticaly. When the script is finished, it will create a flag.txt file which contains the flag. It will also `cat` out the flag.
 
 ```bash
 #!/bin/bash
