@@ -13,7 +13,7 @@ by BubblyPen
 
 Opening the picture will output a chessboard with pieces on it.
 
-![]how_do_i_win.png
+![](how_do_i_win.png)
 
 Decoding chesspieces to binary will give:
 
