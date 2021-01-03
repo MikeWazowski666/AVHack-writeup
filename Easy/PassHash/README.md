@@ -22,8 +22,11 @@ Pasteing the pieces to [crackstation](https://crackstation.net/) will give:
 *These hashes are MD5*
 
 >1 - 635C6C282D4385B8A6B6083D0151054D - Girl
+>
 >2 - 07A094A210794E74A0E5E1A1457A92EE - Word
+>
 >3 - EBE418AE757B121B0D636041981FC1D1 - Bird
+>
 >4 - 9594EEC95BE70E7B1710F730FDDA33D9 - Blue
 
 
