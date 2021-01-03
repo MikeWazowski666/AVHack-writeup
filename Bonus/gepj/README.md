@@ -16,3 +16,12 @@ by BubblyPen
 By unzipping the zip file you get a folder. Inside the folder are two files: pfft.gepj and tfft.pjge. Pfft.gepj file seemed interesting, because gepj in reverse is jpeg. For this challange I used [CyberChef](https://gchq.github.io/CyberChef/). I uploaded the .gepj file to CyberChef and reversed the file. Downloaded it and opened it. The flag was there. 
 
 ***Flag:*** CC19-hgF1-8lkn7-HgjK-82xt
+
+# Write-up w/ PowerShell
+by chirbard
+
+Unzipped folder has two files: pfft.gepj and tfft.pjge.
+
+The file pfft.gepj has jpeg tag at the end, that means all its bytes are reversed.
+
+![](tag_at_the_end_of_the_file.png)
