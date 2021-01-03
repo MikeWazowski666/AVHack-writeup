@@ -52,6 +52,7 @@ By puting the pieces together, you will get the flag
 ***Flag:*** CC19-UYTH-8Hj1-ASTU
 
 # Additional info
+by chirbard
 
 Dcode.fr has a list of ciphers that use symbols.
 
