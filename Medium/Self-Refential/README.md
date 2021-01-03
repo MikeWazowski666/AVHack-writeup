@@ -1,4 +1,4 @@
-# Muusika
+# Self-Refential
 **Category:** Medium
 **Points:** 400
 **Solves:** 17
