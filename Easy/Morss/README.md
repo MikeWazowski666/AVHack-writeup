@@ -11,7 +11,7 @@
 >
 >Leia, mis oli laevalt otsa saanud
 >
->morss.wav
+>[morss.wav](./morss.wav)
 
 >FLAG: sõnumi sisu
 
