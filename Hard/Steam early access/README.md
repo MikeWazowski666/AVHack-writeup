@@ -15,7 +15,7 @@
 # Write-up
 by BubblyPen
 
-I downloaded stella and then opened the game file with it. Pressed the \` key to get to the debugger. 
+I downloaded stella and then opened the game file with it. Pressed the \` key to open the debugger. 
 
 ![](https://imgur.com/e5zoGue.png)
 
