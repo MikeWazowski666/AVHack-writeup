@@ -50,3 +50,9 @@ Decoded:
 By puting the pieces together, you will get the flag
 
 ***Flag:*** CC19-UYTH-8Hj1-ASTU
+
+# Additional info
+
+Dcode.fr has a list of ciphers that use symbols.
+
+>https://www.dcode.fr/tools-list#symbols
