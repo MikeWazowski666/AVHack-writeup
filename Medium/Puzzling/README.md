@@ -15,7 +15,7 @@ by BubblyPen
 
 When opening the file, you can see it's a QR code. 
 
-Open up GIMP. Select the QR code pieces and cut-paste them to another layer. Then rearrange them and get the flag.
+Open up GIMP. Select the QR code pieces and cut-paste them to another layer. Then rearrange them to get the flag.
 
 ![](./qrcode.png)
 
