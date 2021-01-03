@@ -1,42 +1,43 @@
-#!/bin/python3
-
-#Imports
 import pytesseract
-import requests
 import cv2
+import requests
 import webbrowser
+from PIL import Image
 
-#Global variables
 s = requests.session()
-x = 0
-
-for i in range(0, 10000):
-    
-    #Get img
+i = 1
+while True:
     response = requests.get("http://ctfp.ee:9999/captcha.php")
-    
     file = open("captcha.jpeg", "wb")
-    
     file.write(response.content)
-    
     file.close()
 
+    img = Image.open("captcha.jpeg")
+    pix = img.load()
+    for x in range(250):
+        for y in range(75):
+            if pix[x,y][0] > 180 and pix[x,y][1] > 180 and pix[x,y][2] > 180:
+                pix[x,y] = (255, 255, 255, 255)
+            else:
+                pix[x,y] = (0, 0, 0)
+    new_size = tuple(2*x for x in img.size)
+    img = img.resize(new_size, Image.ANTIALIAS)
+    img.save("captcha.jpeg")
 
-    #Captha -> text && check if correct
-    img = cv2.imread("captcha.jpeg")
-    
-    txt = pytesseract.image_to_string(img)[:-2]
-    
-    print(txt + ' ' + str(x) + '/10000')
+    text = pytesseract.image_to_string(img, config="-c tessedit_char_whitelist=23456789bcdeghjkmpqstvwyz --psm 7").replace("\x0c", "").replace("\n", "")
 
-    
-    #Send it    
-    url = 'http://ctfp.ee:9999/'
-    
-    r = s.post(url, data={'hash': txt})
-    
-    if 'wrong' in r.text or i == 10000:
-    
+    if i % 100 == 0:
+        print(text + ' ' + str(i))
+
+    data = {'hash': text}
+    r = s.post('http://ctfp.ee:9999/', data=data)
+
+    if "Wrong" in r.text:
+        print("uuesti " + str(i))
+        i = 0
+
+    if i == 10000:
         print(r.text)
-    
-    x = x + 1
+        break
+
+    i += 1
