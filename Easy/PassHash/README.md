@@ -10,7 +10,7 @@
 >
 >Flag is in format: CC##-####-####-####
 >
->passhash.zip
+>[passhash.zip](./passhash.zip)
 
 # Write-up
 by BubblyPen
