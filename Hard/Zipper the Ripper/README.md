@@ -56,7 +56,6 @@ do
 	then
 		echo "{File}: gzip"
 		mv $filename $filename.gz
-		ls
 		gunzip $filename.gz
 		rm $filename.gzip
 		filename=$(ls *)
