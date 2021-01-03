@@ -17,7 +17,7 @@ by BubblyPen
 
 Unziping passhash.zip file will output two files: pieces.txt and flag.zip.
 
-Pasteing the pieces to [crackstation](https://www.crackstation.net) will give:
+Pasteing the pieces to [crackstation](https://crackstation.net/) will give:
 
 *These hashes are MD5*
 
