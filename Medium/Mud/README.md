@@ -13,7 +13,7 @@
 # Write-up
 by BubblyPen
 
-Connect to the service via `nc`
+Connect to the service via `nc` and wait till the flag appears
 
 ```bash
 $ nc ctfp.ee 7777
