@@ -13,7 +13,7 @@
 # Write-up
 by BubblyPen
 
-This hash was very different from all the other hashes, which I have seen. Thus, I used [CyberChef](https://gchq.github.io/CyberChef/) to do this challange. It seemed like base64 so I tried it eight times and got the flag.
+This hash was very different from all the other hashes, which I have seen. Thus, I used [CyberChef](https://gchq.github.io/CyberChef/) to do this challange. It seemed like base64 so I tried it eight times and got the flag. I also removed the dots between every character.
 
 Message:
 >Hope you had fun. Here is the flag: CC20-r3p3-at4d-n4u5-e4m!   Some garbage in the end BlablaBLAAARGH!!!
