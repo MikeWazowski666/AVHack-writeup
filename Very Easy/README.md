@@ -14,4 +14,4 @@ View source code and search for comment, which contains the flag.
 
 ![](./flag.png)
 
-Flag: avhck-rul3s
+***Flag:*** avhck-rul3s
