@@ -17,7 +17,7 @@ by BubblyPen
 
 I downloaded stella and then opened the game file with it. Pressed the \` key to get to the debugger. 
 
-![](https://imgur.com/a/lw3VqJi)
+![](https://imgur.com/e5zoGue.png)
 
 Set memory address `d9` to values between `fa` and `ff` and get one kill to get the flag.
 
