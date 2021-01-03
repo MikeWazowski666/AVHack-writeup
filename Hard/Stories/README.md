@@ -6,7 +6,7 @@
 
 >Check out this story generator. It makes being an author easy!
 >
-Flag is in format: CT##-####-####-####
+>Flag is in format: CT##-####-####-####
 >
 >You can access the site [here](http://ctfp.ee:8888/)
 
