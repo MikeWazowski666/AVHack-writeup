@@ -1,4 +1,4 @@
-#Captcha
+# Captcha
 **Category:** Very Hard
 **Points:** 800
 **Solves:** 7
@@ -10,7 +10,7 @@
 >
 >Lipp on formaadis: CT19-####-####
 
-#Write-up
+# Write-up
 by BubblyPen & [marcus99661](https://github.com/marcus99661)
 
 **I did not solve this during the CTF**
