@@ -8,7 +8,7 @@
 >
 >Lisaks me teame, et see valem peaks suutma kuvada "Kõike"
 >
->[self_referential.txt](./self_referentital.txt)
+>[self_referential.txt](./self_referential.txt)
 >
 >FLAG on formaadis: CC19-####-####-####
 
