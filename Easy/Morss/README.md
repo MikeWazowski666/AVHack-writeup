@@ -18,7 +18,7 @@
 # Write-up
 by BubblyPen
 
-By listening to the audio file you can here morse code.
+By listening to the audio file you can hear the morse code.
 
 I found an online morse decoder.
 
