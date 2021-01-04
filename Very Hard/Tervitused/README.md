@@ -31,4 +31,6 @@ Flag contains the following characters:
 
 Rearrange them and get the flag.
 
+Rearranging them in unicode UTF-008x (in ascending order). Click on the character in fontforge to see the unicode.
+
 ***Flag:*** CT19-aczu-enno
